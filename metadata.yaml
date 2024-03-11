@@ -1,0 +1,55 @@
+_repo: Moral-social-b-apreciacion-de-Hostos_73064
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Blanco-Fombona, Rufino
+    aliases:
+    - Blanco-Fombona, R. (Rufino)
+    - Fombona, Rufino Blanco
+    birthdate: 1874
+    deathdate: 1944
+    gutenberg_agent_id: '50937'
+    url: http://www.gutenberg.org/2009/agents/50937
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Rufino_Blanco-Fombona
+    - https://es.wikipedia.org/wiki/Rufino_Blanco_Fombona
+creator:
+  author:
+    agent_name: Hostos, Eugenio María de
+    aliases:
+    - Hostos, Eugenio Maria de
+    - Bonilla, Eugenio María de Hostos y
+    - De Hostos, Eugenio María
+    - Hostos, E. M. de (Eugenio María)
+    birthdate: 1839
+    deathdate: 1903
+    gutenberg_agent_id: '56931'
+    url: http://www.gutenberg.org/2009/agents/56931
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Eugenio_Mar%C3%ADa_de_Hostos
+    - https://es.wikipedia.org/wiki/Eugenio_Mar%C3%ADa_de_Hostos
+description: ''
+gutenberg_issued: '2024-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73064'
+  lccn: '18010346'
+language: es
+pgterms:marc904: https://archive.org/details/moralsocialaprec00host
+pgterms:marc905: 20220405134522hostos
+pgterms:marc906: '1917'
+pgterms:marc907: ES
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aMadrid :$bEditorial-América, $c1917.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Biblioteca de ciencias politicas y sociales, XV.
+subjects:
+- !lcsh 'Ethics'
+- !lcsh 'Social ethics'
+- !lcc 'BJ'
+- GITenberg
+title: 'Moral social : $b apreciación de Hostos'
+url: http://www.gutenberg.org/ebooks/73064
