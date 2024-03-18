@@ -13,6 +13,9 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/Rufino_Blanco-Fombona
     - https://es.wikipedia.org/wiki/Rufino_Blanco_Fombona
+covers:
+- cover_type: archival
+  image_path: 73064-h/images/cover.jpg
 creator:
   author:
     agent_name: Hostos, Eugenio María de
@@ -29,6 +32,8 @@ creator:
     - https://en.wikipedia.org/wiki/Eugenio_Mar%C3%ADa_de_Hostos
     - https://es.wikipedia.org/wiki/Eugenio_Mar%C3%ADa_de_Hostos
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73064#Moral-social-b-apreciacion-de-Hostos
 gutenberg_issued: '2024-02-27'
 gutenberg_type: Text
 identifiers:
